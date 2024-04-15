@@ -30,4 +30,3 @@ Esto tiene varias ventajas:
 - **Consistencia**: Al reutilizar los mismos componentes en toda la aplicación, se garantiza una apariencia y un comportamiento consistentes.
 - **Eficiencia**: Los componentes reutilizables reducen la cantidad de código que se necesita escribir y mantener.
 - **Flexibilidad**: Los componentes se pueden combinar y reorganizar para crear diferentes interfaces de usuario.
-.
