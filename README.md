@@ -7,6 +7,7 @@ Este proyecto es el frontend del sistema de gimnasio para la sede Antonio Varas 
 ## Tecnologías utilizadas
 
 - React.js
+- Materia UI
 
 ## Características
 
